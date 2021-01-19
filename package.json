@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "private": true,
+  
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
@@ -26,18 +26,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "portfolio",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sflores813/Portfolio"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sflores813/Portfolio"
-  },
-  "homepage": "https://github.com/sflores813/Portfolio"
+  }
 }
