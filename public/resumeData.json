@@ -1,104 +1,106 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "name": "Stephen Flores",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack Developer",
+    "image": "stephen.jpg",
+    "bio": " I need a good bio haha",
+    "contactmessage": "Get in touch with me if you have any questions",
+    "email": "sflores813@gmail.com",
+    "phone": "325-200-3360",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "city": "San Antonio",
+      "state": "Tx",
+      "zip": "78253"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+      
+    "website": "https://drive.google.com/file/d/1cUQUIKdUr5h5tq4_tEBl0FJi19CbfB2W/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1cUQUIKdUr5h5tq4_tEBl0FJi19CbfB2W/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/stephen.flores.75/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/feed/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "UTSA-Trilogy Coding Bootcamp",
+        "degree": "24 week Certificate",
+        "graduated": "July 2020 - Janurary 2021",
+        "description": "Graduated! Started the bootcamp knowing very little about coding, finished with knowing something!"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
-      },
-      {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
+        "company": "Texas de Brazil",
+        "title": "Head Server",
+        "years": "October 2019 - present",
+        "description": "Head server and in charge of training the new hires."
       }
+     
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "V.S code",
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
-        "level": "75%"
-      },
-      {
-        "name": "JavaScript",
+        "name": "Git Hub",
         "level": "100%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "85%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "5-O-Clock-Somewhere!",
+        "category": "Project 1 of bootcamp using JS, HTML, and CSS",
+        "image": "5oClock.png",
+        "url": "https://stephenfink.github.io/5-O-clock-somewhere/"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "TrUber!",
+        "category": "Project 3 of bootcamp using React, Mongo, ",
+        "image": "truber.png",
+        "url": "https://aqueous-river-17050.herokuapp.com/"
+      },
+      {
+        "title": "JavaScript Quiz!",
+        "category": "Made a quiz about JS using JS!",
+        "image": "Js.jpg",
+        "url": "https://sflores813.github.io/Hw4JavaQuiz/"
+      },
+      {
+        "title": "Daily Plnner!",
+        "category": "Daily Planner Using Js, Html, CSS",
+        "image": "planner.PNG",
+        "url": "https://sflores813.github.io/hw5dailyPlanner/"
       }
     ]
   },
@@ -107,11 +109,8 @@
       {
         "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
         "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
+
     ]
   }
 }
